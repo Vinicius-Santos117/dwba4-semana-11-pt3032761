@@ -39,7 +39,7 @@ const SobreContent = () => {
   );
 };
 
-// Renderiza o componente no elemento com id 'root'
+
 ReactDOM.render(
   <SobreContent />,
   document.getElementById('root')
