@@ -6,8 +6,8 @@
 }
 
 #my_menu a {
-    color: white;
-    text-decoration: YellowGreen;
+    color: YellowGreen;
+    text-decoration: none;
     padding: 10px 15px;
     margin: 0 5px;
     border-radius: 4px;
